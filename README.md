@@ -1,4 +1,4 @@
-# Notebook Mindmap to Obsidian Canvas
+# NotebookLM Mindmap to Canvas
 
 [![Obsidian Downloads](https://img.shields.io/badge/Obsidian-Community_Plugins-purple)](https://obsidian.md/plugins?id=notebook-mindmap-to-canvas)
 ![License](https://img.shields.io/github/license/ayv4zyan/NotebookMindmapToObsidianCanvas)

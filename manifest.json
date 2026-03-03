@@ -1,6 +1,6 @@
 {
     "id": "notebook-mindmap-to-canvas",
-    "name": "Notebook Mindmap to Canvas",
+    "name": "NotebookLM Mindmap to Canvas",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
     "description": "Convert NotebookLM mindmaps to Obsidian Canvas with one click. Requires NotebookLM Ultra Exporter Chrome extension.",
